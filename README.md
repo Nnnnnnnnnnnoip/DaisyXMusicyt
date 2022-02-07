@@ -32,6 +32,12 @@ Get pyrogram (p)  `SESSION` from here:
 
 [![Run on Repl.it](https://repl.it/badge/github/ChankitSaini/GenerateStringSession)](https://replit.com/@ChankitSaini/GenerateStringSession)
 
+### 𝗥𝗔𝗜𝗟𝗪𝗔𝗬 𝗗𝗘𝗣𝗟𝗢𝗬
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FNnnnnnnnnnnoip%2FDaisyXMusic.git&envs=API_HASH%2CAPI_ID%2CARQ_API_KEY%2CASSISTANT_NAME%2CBG_IMAGE%2CBOT_NAME%2CBOT_TOKEN%2CBOT_USERNAME%2CDURATION_LIMIT%2CPMPERMIT%2CPROJECT_NAME%2CSESSION_NAME%2CSUDO_USERS%2CSUPPORT_GROUP%2CUPDATES_CHANNEL&BG_IMAGEDefault=https%3A%2F%2Ftelegra.ph%2Ffile%2Fdcfdf612e499eef0e0b1f.png&PROJECT_NAMEDefault=NANDAN_MUSIC_V1&SUPPORT_GROUPDefault=TEAM_VAMPIRES&UPDATES_CHANNELDefault=VAMPIRE_UPDATE&referralCode=0he9k9)
+
+
+
 ### ⚔ Self-hosting
 ```sh
 # First Upgrade Your Terminal
